@@ -1,1 +1,2 @@
-Repo session
+updated git readme
+alx in progress
